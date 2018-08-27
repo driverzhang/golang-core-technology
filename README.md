@@ -9,3 +9,4 @@ the core technology for golang 36 (go语言核心技术笔记)
 | # | Title | Solution | Grade |
 |---| ----- | -------- | ---------- |
 |01|[工作区和GOPATH](/01/01.md) | [Go](/01/01.md)|3|
+|02|[命令源码文件](/02/02.md) | [Go](/02/02.md)|3|
